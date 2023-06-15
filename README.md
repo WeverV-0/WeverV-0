@@ -13,7 +13,7 @@ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WeverV-0&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-<(https://i.pinimg.com/564x/12/f0/f3/12f0f3b16b81d98c7031d9ad80cdac61.jpg)>
+<https://i.pinimg.com/564x/12/f0/f3/12f0f3b16b81d98c7031d9ad80cdac61.jpg![image](https://github.com/WeverV-0/WeverV-0/assets/136720194/a48acb15-09ef-4283-8cf3-063323d3f38f)>
 
 
 
